@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "returnExtFun",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/1_Storage.sol": "newConract"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/1_Storage.sol": {
+			"keccak256": "0x80e0aefd7e256ca3fd13d5460a0c6e5a835139b51e03ca6e9424af8491539268",
+			"license": "GPL-3.0",
+			"urls": [
+				"bzz-raw://63cb731c4674f5082702d74d27f9a4a9ca5fab79d7a9c892f910efd6cd42cb49",
+				"dweb:/ipfs/QmetXj6aMEhiNxzxSqe9R3mgZcx6TRjPLionVAcyHKvDX6"
+			]
+		}
+	},
+	"version": 1
+}
